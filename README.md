@@ -4,7 +4,7 @@ Hi, I’m James Farmer-Ohlsen, a Frontend Developer based in Oslo, Norway.
 ## Dev story
 
 ### ⬅️ What I've done 
-The 2 year Frontend Development course at Noroff School of Technology and Digital Media.
+The 2 year Frontend Development course at [Noroff](https://www.noroff.no/en/studies/vocational-school/front-end-development) School of Technology and Digital Media.
 <br/><br/>
 
 ### 👍 What I can do
